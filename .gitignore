@@ -1,0 +1,7 @@
+*.p
+*.HDF5
+__pycache__/
+Graph/
+.ipynb_checkpoints/
+data/
+models/
