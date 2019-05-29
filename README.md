@@ -9,7 +9,7 @@ The repo contains the jupyter notebook for 2 related the blog posts
 
 ## Dependencies
 
-Python 3.5, numpy, tensorflow==1.4.0, PIL
+Python 3.5, numpy, tensorflow, pillow
 
 ### How to Run
 Run the python notebook by cd into the directory in command line then run
